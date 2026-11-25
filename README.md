@@ -531,7 +531,7 @@ The project can be extended with:
 
 ## 👨‍💻 Developer
 
-### Kunal Saxena
+### Dipanshu Gangwar 
 
 **BCA Graduate | MCA Student**
 
